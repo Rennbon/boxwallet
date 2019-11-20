@@ -14,7 +14,7 @@ import (
 
 	"math/big"
 
-	"github.com/boxproject/boxwallet/errors"
+	"github.com/Rennbon/boxwallet/errors"
 	"github.com/btcsuite/btcd/chaincfg"
 	"github.com/btcsuite/btcd/wire"
 	"github.com/btcsuite/btcutil/hdkeychain"

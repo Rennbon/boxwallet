@@ -8,8 +8,8 @@ import (
 
 	"encoding/json"
 
-	"github.com/boxproject/boxwallet/bccore"
-	"github.com/boxproject/boxwallet/errors"
+	"github.com/Rennbon/boxwallet/bccore"
+	"github.com/Rennbon/boxwallet/errors"
 )
 
 //Details of the coin

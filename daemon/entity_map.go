@@ -1,7 +1,7 @@
 package daemon
 
 import (
-	"github.com/boxproject/boxwallet/db/mysql"
+	"github.com/Rennbon/boxwallet/db/mysql"
 )
 
 func ConvertTxInfo(m *TxInfo) *mysql.TxInfo {

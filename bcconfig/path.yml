@@ -1,0 +1,4 @@
+LOCAL: "bxwallet"
+OFFIC: "bxwallet/official"
+KVDB: "bxwallet/data"
+COINJSON: "bxwallet/distribute"

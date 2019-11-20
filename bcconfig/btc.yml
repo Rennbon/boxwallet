@@ -1,0 +1,12 @@
+ip: "localhost"
+port: "8332"
+user: "Rennbon"
+passwd: "qwe123456"
+net: "regtest"
+timeout: 30
+
+#ip: "192.168.9.23"
+#port: "7332"
+#user: "john"
+#passwd: "51318c0c86d5b51b3beffbc02b724e"
+#net: "regtest"

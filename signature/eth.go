@@ -7,7 +7,7 @@ import (
 
 	"math/big"
 
-	"github.com/boxproject/boxwallet/errors"
+	"github.com/Rennbon/boxwallet/errors"
 
 	"encoding/hex"
 	"strings"

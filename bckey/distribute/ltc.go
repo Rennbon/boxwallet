@@ -1,7 +1,7 @@
 package distribute
 
 import (
-	"github.com/boxproject/boxwallet/bccore"
+	"github.com/Rennbon/boxwallet/bccore"
 	"github.com/ltcsuite/ltcd/chaincfg"
 	"github.com/ltcsuite/ltcutil/hdkeychain"
 )

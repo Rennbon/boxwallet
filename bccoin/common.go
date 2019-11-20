@@ -1,6 +1,6 @@
 package bccoin
 
-import "github.com/boxproject/boxwallet/util"
+import "github.com/Rennbon/boxwallet/util"
 
 var (
 	regutil = &util.RegUtil{}

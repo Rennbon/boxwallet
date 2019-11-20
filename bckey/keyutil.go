@@ -7,9 +7,9 @@ import (
 
 	"log"
 
-	"github.com/boxproject/boxwallet/bccore"
-	"github.com/boxproject/boxwallet/errors"
-	"github.com/boxproject/boxwallet/util"
+	"github.com/Rennbon/boxwallet/bccore"
+	"github.com/Rennbon/boxwallet/errors"
+	"github.com/Rennbon/boxwallet/util"
 	"github.com/btcsuite/btcd/chaincfg"
 	"github.com/btcsuite/btcutil/hdkeychain"
 	"github.com/dgraph-io/badger"

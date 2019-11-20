@@ -1,0 +1,9 @@
+#url: "/Users/rennbon/geth/mychain/geth.ipc"
+gasLimit: 3231744
+gasPrice: 18000000000
+#url: "ws://127.0.0.1:8546"
+#url: "ws://192.168.10.145:8546"
+
+url: "ws://192.168.9.23:8546"
+
+#url: "ws://47.74.156.220:8546"

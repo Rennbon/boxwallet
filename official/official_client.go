@@ -1,8 +1,8 @@
 package official
 
 import (
-	"github.com/boxproject/boxwallet/bcconfig"
-	"github.com/boxproject/boxwallet/bctrans/clientseries"
+	"github.com/Rennbon/boxwallet/bcconfig"
+	"github.com/Rennbon/boxwallet/bctrans/clientseries"
 )
 
 var btcNodeInstance *clientseries.OmniSeriesClient

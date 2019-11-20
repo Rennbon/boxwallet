@@ -15,15 +15,15 @@ import (
 
 	"strings"
 
-	"github.com/boxproject/boxwallet/bccore"
-	"github.com/boxproject/boxwallet/daemon"
+	"github.com/Rennbon/boxwallet/bccore"
+	"github.com/Rennbon/boxwallet/daemon"
 )
 
 var logs map[bccore.BloclChainType]string
 
 func TestDir(t *testing.T) {
 	logs = make(map[bccore.BloclChainType]string)
-	fi, err := os.Open("/Users/rennbon/go/src/github.com/boxproject/boxwallet/bcconfig/blockheight/btc.log")
+	fi, err := os.Open("/Users/rennbon/go/src/github.com/Rennbon/boxwallet/bcconfig/blockheight/btc.log")
 	if err != nil {
 		panic("err")
 	}
@@ -35,7 +35,7 @@ func TestHeightWriteAsyn(t *testing.T) {
 	time.Sleep(time.Second * 2)
 }
 func TestReadBlockHeight(t *testing.T) {
-	name := "/Users/rennbon/go/src/github.com/boxproject/boxwallet/bcconfig/blockheight/ltc.log"
+	name := "/Users/rennbon/go/src/github.com/Rennbon/boxwallet/bcconfig/blockheight/ltc.log"
 	data, err := ioutil.ReadFile(name)
 	if err != nil {
 		panic(err)

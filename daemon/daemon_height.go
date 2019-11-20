@@ -13,8 +13,8 @@ import (
 
 	"strings"
 
-	"github.com/boxproject/boxwallet/bccore"
-	"github.com/boxproject/boxwallet/util"
+	"github.com/Rennbon/boxwallet/bccore"
+	"github.com/Rennbon/boxwallet/util"
 )
 
 var logPath map[bccore.BloclChainType]string

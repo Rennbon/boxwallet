@@ -5,7 +5,7 @@ import (
 
 	"strconv"
 
-	"github.com/boxproject/boxwallet/bcconfig"
+	"github.com/Rennbon/boxwallet/bcconfig"
 	"github.com/ethereum/go-ethereum/ethclient"
 )
 

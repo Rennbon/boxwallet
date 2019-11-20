@@ -1,8 +1,8 @@
 package keynet
 
 import (
-	"github.com/boxproject/boxwallet/bcconfig"
-	"github.com/boxproject/boxwallet/bccore"
+	"github.com/Rennbon/boxwallet/bcconfig"
+	"github.com/Rennbon/boxwallet/bccore"
 	"github.com/mitchellh/mapstructure"
 )
 

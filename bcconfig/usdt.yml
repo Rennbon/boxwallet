@@ -1,0 +1,7 @@
+ip: "localhost"
+port: "8332"
+user: "Rennbon"
+passwd: "qwe123456"
+net: "regtest"
+ppId: 2147483656
+timeout: 30

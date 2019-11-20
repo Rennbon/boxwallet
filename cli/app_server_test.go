@@ -11,8 +11,8 @@ import (
 
 	"log"
 
-	"github.com/boxproject/boxwallet/bccore"
-	"github.com/boxproject/boxwallet/cli"
+	"github.com/Rennbon/boxwallet/bccore"
+	"github.com/Rennbon/boxwallet/cli"
 )
 
 func TestNewAppServer(t *testing.T) {

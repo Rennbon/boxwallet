@@ -1,8 +1,8 @@
 package token
 
 import (
-	"github.com/boxproject/boxwallet/bccoin"
-	"github.com/boxproject/boxwallet/bccore"
+	"github.com/Rennbon/boxwallet/bccoin"
+	"github.com/Rennbon/boxwallet/bccore"
 )
 
 type TokenLawer interface {

@@ -4,10 +4,10 @@ import (
 	"path"
 	"testing"
 
-	"github.com/boxproject/boxwallet/bcconfig"
-	mysqlConf "github.com/boxproject/boxwallet/bcconfig/mysql"
-	mysqlDB "github.com/boxproject/boxwallet/db/mysql"
-	"github.com/boxproject/boxwallet/mock"
+	"github.com/Rennbon/boxwallet/bcconfig"
+	mysqlConf "github.com/Rennbon/boxwallet/bcconfig/mysql"
+	mysqlDB "github.com/Rennbon/boxwallet/db/mysql"
+	"github.com/Rennbon/boxwallet/mock"
 )
 
 func TestNewKeyStorage(t *testing.T) {

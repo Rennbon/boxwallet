@@ -7,8 +7,8 @@ import (
 
 	"encoding/json"
 
-	"github.com/boxproject/boxwallet/bcconfig/mysql"
-	"github.com/boxproject/boxwallet/db"
+	"github.com/Rennbon/boxwallet/bcconfig/mysql"
+	"github.com/Rennbon/boxwallet/db"
 	"github.com/jinzhu/gorm"
 )
 

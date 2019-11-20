@@ -1,0 +1,16 @@
+officDaemon:
+  btc:
+    gap: 6
+    ticker: 300
+    confirm: 6
+    unlock: 6
+  eth:
+    gap: 6
+    ticker: 1
+    confirm: 12
+    unlock: 1
+  ltc:
+    gap: 6
+    ticker: 300
+    confirm: 6
+    unlock: 6

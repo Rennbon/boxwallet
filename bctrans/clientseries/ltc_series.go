@@ -1,7 +1,7 @@
 package clientseries
 
 import (
-	"github.com/boxproject/boxwallet/bcconfig"
+	"github.com/Rennbon/boxwallet/bcconfig"
 	rpcclient "github.com/boxproject/lib-bitcore/selrpcclient"
 	"github.com/ltcsuite/ltcd/chaincfg"
 )
